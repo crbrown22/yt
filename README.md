@@ -6,7 +6,7 @@ Python program that allows the user to create an automated playlist on youtube
 
 Enter the urls for the Youtube videos you want to put on your playlist / 
 Run the program and allow your playlist to autogenerate /
-Progrem grabs videos on the list at random and plays them /
+Program grabs videos on the list at random and plays them /
 Can set for video transitions at random times or watch the whole video. 
 
 
