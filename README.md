@@ -12,7 +12,7 @@ Can set for video transitions at random times or watch the whole video.
 
 #Usage:
 Install Chrome or Firefox driver in settings
-To run the program: python manage.py
+To run the program: python yt.py
 
 #Installation: 
 Selenium
